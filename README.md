@@ -10,7 +10,7 @@ An interactive Discord Bot using discord py, currently being developed and not y
 
 # Update
 |Description|Date|
-|--|--|--|
+|--|--|
 |Release|26/4/2024|
 
 # Preview
